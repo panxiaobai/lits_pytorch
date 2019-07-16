@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://root@192.168.50.50:31020/root/anaconda3/envs/pytorch/bin/python3.6" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="Copy of project-level server 'ssh://root@192.168.50.50:31020/root/anaconda3/envs/tensorflow-gpu/bin/python3.6'">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ssh://root@192.168.50.50:31020/root/anaconda3/envs/pytorch/bin/python3.6">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/userfolder/PY" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

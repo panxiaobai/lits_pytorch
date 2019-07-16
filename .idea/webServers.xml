@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ssh://root@192.168.50.50:31020/root/anaconda3/envs/pytorch/bin/python3.6" name="ssh://root@192.168.50.50:31020/root/anaconda3/envs/pytorch/bin/python3.6">
+        <fileTransfer host="192.168.50.50" port="31020" accessType="SFTP">
+          <option name="port" value="31020" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
